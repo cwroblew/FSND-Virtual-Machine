@@ -1,10 +1,11 @@
-Create the vagrant environment from udacity's FSND-Virtual-Machine on github.
+Create the vagrant environment from udacity's FSND-Virtual-Machine on github or use the environment within this repo.
 
 vagrant up
 vagrant ssh
 
 Create the required views (listed below).
 From within the vagrant environment cd to the location the log.py file has been placed.
+If you use my github repo, cd /vagrant/logs.
 Run ./log.py
 
 Required views for Log Project
